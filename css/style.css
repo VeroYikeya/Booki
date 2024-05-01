@@ -88,7 +88,6 @@ ul {
 .navhead:hover {
     color: #0065FC;
     border-top: solid;
-    font-size: 16px;
 }
 
 /****** Titre de section ***********/
@@ -366,7 +365,7 @@ footer {
 }
 
 footer section {
-    padding: 0px 0px 0px 20px;
+    padding: 0px 0px 20px 20px;
     display: flex;
     flex-direction: column;
     width: 446.67px;
@@ -383,12 +382,7 @@ footer section {
     gap: 10px;
     text-decoration: none;
     padding-left: 0px;
-}
-
-.linkfoot {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 18.78px;
+    padding: 15px 0px 0px 0px;
 }
 
 .linkfoot:hover {
