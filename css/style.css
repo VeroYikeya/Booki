@@ -266,8 +266,6 @@ input {
     box-sizing: border-box;
 }
 
-
-
 .hebergements-cards .card-title {
     margin-top: 5px;
     margin-bottom: 4px;
@@ -286,7 +284,6 @@ input {
 
 .card:hover {
     transform: scale(1.05);
-    
 }
 
 /****** Populaires ***********/
@@ -350,7 +347,6 @@ input {
 .activites {
     display: flex;
     flex-wrap: wrap;
-    
 }
 
 .activites-img {
@@ -372,7 +368,6 @@ input {
     margin-left: 15px;
 }
 
-
 /****** Footer ***********/
 
 footer {
@@ -386,7 +381,6 @@ footer section {
     display: flex;
     flex-direction: column;
     width: 446.67px;
-    
 }
 
 .titlefoot {
